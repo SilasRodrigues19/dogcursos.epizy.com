@@ -46,10 +46,10 @@
 [![About View][About View]](https://github.com/SilasRodrigues19/DogCursos)
 [![About View2][About View2]](https://github.com/SilasRodrigues19/DogCursos)
 [![About View3][About View3]](https://github.com/SilasRodrigues19/DogCursos)
-[![About View4][About View3]](https://github.com/SilasRodrigues19/DogCursos)
-[![About View5][About View3]](https://github.com/SilasRodrigues19/DogCursos)
-[![About View6][About View3]](https://github.com/SilasRodrigues19/DogCursos)
-[![About View7][About View3]](https://github.com/SilasRodrigues19/DogCursos)
+[![About View4][About View4]](https://github.com/SilasRodrigues19/DogCursos)
+[![About View5][About View5]](https://github.com/SilasRodrigues19/DogCursos)
+[![About View6][About View6]](https://github.com/SilasRodrigues19/DogCursos)
+[![About View7][About View7]](https://github.com/SilasRodrigues19/DogCursos)
 
 
 

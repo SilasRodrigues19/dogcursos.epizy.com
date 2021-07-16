@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://github.com/SilasRodrigues19/DogCursos/blob/master/img/dogcursos.png?raw=true" alt="Logo" width="150" height="80">
+    <img src="https://github.com/SilasRodrigues19/DogCursos/blob/master/img/dogcursos.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dog Cursos</h3>

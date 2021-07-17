@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://github.com/SilasRodrigues19/DogCursos/blob/master/img/dogcursos.png?raw=true" alt="Logo" width="150" height="80">
+    <img src="https://github.com/SilasRodrigues19/DogCursos/blob/master/img/dogcursos.png?raw=true" alt="Logo" width="150" height="65">
   </a>
 
   <h3 align="center">Dog Cursos</h3>
@@ -44,12 +44,6 @@
 ## About The Project
 
 [![About View][About View]](https://github.com/SilasRodrigues19/DogCursos)
-[![About View2][About View2]](https://github.com/SilasRodrigues19/DogCursos)
-[![About View3][About View3]](https://github.com/SilasRodrigues19/DogCursos)
-[![About View4][About View4]](https://github.com/SilasRodrigues19/DogCursos)
-[![About View5][About View5]](https://github.com/SilasRodrigues19/DogCursos)
-[![About View6][About View6]](https://github.com/SilasRodrigues19/DogCursos)
-[![About View7][About View7]](https://github.com/SilasRodrigues19/DogCursos)
 
 
 
@@ -117,10 +111,4 @@ Project Link: [https://github.com/SilasRodrigues19/DogCursos](https://github.com
 [issues-url]: https://github.com/SilasRodrigues19/DogCursos/issues
 [license-shield]: https://img.shields.io/github/license/SilasRodrigues19/DogCursos.svg?style=for-the-badge
 [license-url]: https://github.com/SilasRodrigues19/DogCursos/blob/master/LICENSE
-[About View]: https://user-images.githubusercontent.com/47532703/57577940-9824bf80-7458-11e9-9577-ee6e2be1771d.png
-[About View2]: https://user-images.githubusercontent.com/47532703/57577934-94913880-7458-11e9-97a8-bb4ff82ab93c.png
-[About View3]: https://user-images.githubusercontent.com/47532703/57577935-95c26580-7458-11e9-8d74-20d58521f473.png
-[About View4]: https://user-images.githubusercontent.com/47532703/57577936-95c26580-7458-11e9-8d91-4faf12a36a1d.png
-[About View5]: https://user-images.githubusercontent.com/47532703/57577937-96f39280-7458-11e9-8449-9566628d907d.png
-[About View6]: https://user-images.githubusercontent.com/47532703/57577938-978c2900-7458-11e9-9078-d90109220898.png
-[About View7]: https://user-images.githubusercontent.com/47532703/57577939-9824bf80-7458-11e9-8b82-29bb657fd1cd.png
+[About View]: https://github.com/SilasRodrigues19/DogCursos/blob/master/img/preview.gif

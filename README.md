@@ -6,6 +6,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
+<samp>
 <p align="center">
   <a href="#">
     <img src="https://github.com/SilasRodrigues19/DogCursos/blob/master/img/dogcursos.png?raw=true" alt="Logo" width="150" height="65">
